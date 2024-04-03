@@ -43,4 +43,4 @@ plt.matshow(attentions.numpy())
 
 ## Result
 
-![Result](./Screenshot 2024-04-03 115935.png)
+![Result](./Result.png)
