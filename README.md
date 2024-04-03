@@ -1,6 +1,6 @@
 # Seq2Seq Neural Machine Translation | WPI December 2022
 
-This project implements a seq2seq neural machine translation model to translate English sentences to French using PyTorch. The project is structured into three model versions:
+This project implements a seq2seq neural machine translation model to translate French sentences to English using PyTorch. The project is structured into three model versions:
 
 1. Supervised training
 2. Pretraining as an autoencoder
