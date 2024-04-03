@@ -40,7 +40,7 @@ The notebook includes code to visualize the attention mechanism of the seq2seq m
 ```python
 attentions = evaluate(encoder1, attn_decoder1, "je suis trop froid .")
 plt.matshow(attentions.numpy())
-
+```
 ## Result
 
 ![Result](./Result.png)
